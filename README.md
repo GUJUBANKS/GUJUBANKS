@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GUJUBANKS
-- 👀 I’m interested in Panda
-- 🌱 I’m currently learning GD
-- 💞️ I’m looking to collaborate on Money
-- 📫 How to reach me Don't
+- 👀 I’m interested in Game Level design and QA
+- 🌱 I’m currently learning Game Developement
+- 📫 How to reach me? Use Linkden
 
 <!---
 GUJUBANKS/GUJUBANKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
